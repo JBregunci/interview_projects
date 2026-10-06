@@ -1,0 +1,11 @@
+name: portfolio-credit-risk
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - scipy
+  - plotly
+  - streamlit
+  - pip

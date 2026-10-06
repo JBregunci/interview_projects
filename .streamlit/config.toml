@@ -1,0 +1,49 @@
+# Clean light theme for the portfolio credit-risk case study.
+
+[theme]
+base = "light"
+primaryColor = "#2563EB"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F7F8FA"
+codeBackgroundColor = "#F1F3F5"
+textColor = "#111827"
+linkColor = "#2563EB"
+borderColor = "#E5E7EB"
+showWidgetBorder = true
+showSidebarBorder = true
+baseRadius = "8px"
+buttonRadius = "8px"
+font = "'Inter':https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+headingFont = "'Inter':https://fonts.googleapis.com/css2?family=Inter:wght@600;700&display=swap"
+codeFont = "'JetBrains Mono':https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500&display=swap"
+baseFontSize = 15
+baseFontWeight = 400
+headingFontSizes = ["34px", "26px", "21px", "18px", "16px", "14px"]
+headingFontWeights = [700, 600, 600, 600, 600, 600]
+linkUnderline = false
+chartCategoricalColors = [
+    "#2563EB",
+    "#D97706",
+    "#DC2626",
+    "#059669",
+    "#7C3AED",
+    "#0891B2",
+    "#DB2777",
+    "#65A30D",
+]
+grayColor = "#6B7280"
+blueColor = "#2563EB"
+greenColor = "#059669"
+redColor = "#DC2626"
+yellowColor = "#D97706"
+orangeColor = "#EA580C"
+violetColor = "#7C3AED"
+dataframeBorderColor = "#E5E7EB"
+dataframeHeaderBackgroundColor = "#F7F8FA"
+
+[theme.sidebar]
+backgroundColor = "#F7F8FA"
+secondaryBackgroundColor = "#EEF0F3"
+textColor = "#111827"
+borderColor = "#E5E7EB"
+primaryColor = "#2563EB"
