@@ -92,10 +92,36 @@ solution; alternative correct implementations are welcome.
 
 All 59 self-checks have been executed successfully.
 
+## Keeping your own solutions
+
+Do not fill in `pandas_workout.ipynb` on this branch if you plan to push your work.
+Use the separate `pandas-workout-solutions` branch, which contains
+`pandas_workout/pandas_workout_solutions.ipynb` and never overwrites the exercise
+notebook.
+
+To pick up exercise updates:
+
+```bash
+git switch pandas-workout
+git pull
+git switch pandas-workout-solutions
+git merge pandas-workout
+```
+
+Push the exercise branch and the solutions branch separately:
+
+```bash
+git push origin pandas-workout
+git push -u origin pandas-workout-solutions
+```
+
+Never merge `pandas-workout-solutions` back into `pandas-workout`.
+
 ## Branch layout
 
 This repository uses one branch per interview project:
 
-- `pandas-workout` contains this workbook and its datasets.
+- `pandas-workout` contains the pristine workbook and its datasets.
+- `pandas-workout-solutions` contains personal answers in a separate notebook.
 - `BIS_Case_Study` contains the portfolio credit-risk case study.
 - `main` contains only repository-level files.
