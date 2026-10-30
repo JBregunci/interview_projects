@@ -1,0 +1,31 @@
+product_id,product_name,category,unit_cost,launch_date,active
+P001, WIRELESS MOUSE , Electronic ,130.7,12/07/2021,yes
+P002,Mechanical Keyboard,electronics,94.92,2021-12-16,no
+P003,USB-C Hub, Electronic ,71.58,10/13/2021,no
+P004,Laptop Stand,electronics,122.7,07/01/2021,no
+P005,Noise Cancelling Headphones,electronics,,2022-03-16,1
+P006,Webcam 1080p,electronics,131.29,2021-12-14,no
+P007,Portable SSD,electronics,154.19,12/06/2021,yes
+P008, Monitor Arm , Electronic ,29.94,2021-10-24,yes
+P009,Desk Lamp,Home Office,11.28,2022-10-25,yes
+P010,ERGONOMIC CHAIR,Home & Office,67.04,2022-05-02,Y
+P011,Standing Desk,home office,247.15,01/17/2022,N
+P012,Filing Cabinet,Home & Office,181.62,2021-09-21,0
+P013,Notebook Set,HOME OFFICE,56.39,08/15/2022,yes
+P014,Gel Pen Pack,HOME OFFICE,246.02,10/02/2022,N
+P015, Desk Organizer ,HOME OFFICE,135.06,2021-06-18,no
+P016,Cable Tray,HOME OFFICE,136.68,10/25/2022,0
+P017,Laptop Sleeve,ACCESSORIES,41.51,06/20/2022,N
+P018,Phone Stand,ACCESSORIES,,2021-07-25,0
+P019,TRAVEL MUG, Accessory ,13.78,07/20/2022,
+P020,Backpack,Accessories,28.05,2021-07-30,1
+P021,External Monitor,Accessories,13.02,2021-06-28,1
+P022, Docking Station , Accessory ,31.66,2021-08-03,Y
+P023,Surge Protector,ACCESSORIES,13.74,02/08/2022,
+P024,Whiteboard, Accessory ,,05/07/2022,yes
+P025,Footrest,Furniture,213.41,2022-01-11,
+P026,Keyboard Wrist Rest, Furniture ,349.87,08/07/2021,1
+P027,Bookshelf, Furniture ,193.9,09/18/2021,Y
+P028,PAPER SHREDDER,FURNITURE,167.69,09/12/2022,Y
+P029, Smart Plug , Furniture ,,11/12/2022,1
+P030,Charging Cable, Furniture ,285.15,2022-07-20,no

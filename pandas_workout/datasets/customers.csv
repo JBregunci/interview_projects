@@ -1,0 +1,216 @@
+customer_id,full_name,email,country,signup_date,segment,marketing_opt_in
+C0001,  KARLA SATO ,sofia.xu1@example.com,FR,03/31/2022,ENT,true
+C0002,Olivia Ueda,wendy.evans2@example.com,DE,31-Apr-2023,SMB, No 
+C0003,Noah Hansen,yara.quintero3@example.com,Canada,2023-10-20,ENT,no
+C0004,Wendy Khan,jonas.pereira4@example.com,France,03/17/2023,Enterprise ,
+C0005,Hugo Xu,ravi.zimmer5@example.com,U.S.,03/11/2023,small business,N
+C0006,Hugo Vargas,not-an-email,France,2023-02-30,Enterprise ,FALSE
+C0007,Xavier Novak,xavier.lopez7@example.com,France,2022-03-28,Smb,no
+C0008,Wendy Ito,ursula.taylor8@example.com,,2023/12/02,Enterprise ,Y
+C0009,Carla Costa,hugo.hansen9@example.com,germany,2022-07-22, Consumer ,FALSE
+C0010,Noah Sato,bruno.evans10@example.com,canada,2022-04-05,enterprise,N
+C0011,Daniel Novak,noah.olsen11@example.com,uk,13-Jun-2023,Smb,N
+C0012,VICTOR GARCIA,elena.martins12@example.com, Deutschland ,2024/09/06,enterprise,TRUE
+C0013,Victor Johnson,,United Kingdom,09-Jan-2024,small business,no
+C0014,Yara Rossi,karla.lopez14@example.com,UK,2024-02-04,ENT,Y
+C0015,Quinn Fischer,pedro.klein15@example.com,CA,2023-12-22,,Y
+C0016,Noah Zimmer,wendy.johnson16@example.com,FR,02/29/2024,consumer,TRUE
+C0017,Ana Walsh,noah.lopez17@example.com, U.K. ,05/31/2023,Smb,yes
+C0018,  Olivia Vargas ,felipe.ueda18@example.com,Canada,2022/05/09,Enterprise,FALSE
+C0019,Theo Martins,hugo.ito19@example.com,United States,04/23/2024,Enterprise, Yes 
+C0020,Jonas Silva,xavier.dubois20@example.com, United States ,2023-03-29,Smb,no
+C0021,Elena Rossi,ursula.sato21@example.com,united states,2023/05/18,small business,yes
+C0022,Carla Taylor, ursula.sato21@example.com ,united states,2023-01-08,small business,1
+C0023,SOFIA COSTA,xavier.johnson23@example.com, FR ,2022-07-03,ENT,TRUE
+C0024,Wendy Martins,noah.quintero24@example.com,france,07/19/2024,Smb,TRUE
+C0025,Xavier Brown,ines.zimmer25@example.com,FR,02/24/2024,Smb,false
+C0026,Felipe Olsen,olivia.taylor26@example.com, United States ,09-Oct-2023,Enterprise,1
+C0027,Felipe Johnson,grace.young27@example.com, United States ,2023/02/09,CONSUMER, Yes 
+C0028,Theo Evans,quinn.pereira28@example.com,United Kingdom,2024/04/06,Enterprise,true
+C0029,Ursula Dias,wendy.silva29@example.com,CA,07/02/2023,CONSUMER,0
+C0030,Felipe Rossi,carla.ito30@example.com,uk,2023/03/22, Consumer ,maybe
+C0031,Xavier Fischer,felipe.walsh31@example.com, CAN ,29-Mar-2023,Enterprise ,FALSE
+C0032,Isabel Sato,bruno.garcia32@example.com,US,2022-08-17,Enterprise,false
+C0033,Ravi Rossi,rita.ueda33@example.com,DE,2022/04/03,Enterprise,0
+C0034,NOAH KLEIN,pedro.zimmer34@example.com, U.K. ,2023-07-11,enterprise,
+C0035,  Sofia Rossi ,muller.dias35@example.com,U.S.,10-Jun-2024,SMB, No 
+C0036,Isabel Almeida,ines.silva36@example.com, Deutschland ,2022/03/06,Smb, No 
+C0037,Elena Dubois,theo.costa37@example.com,France,2024-05-11,Consumer,0
+C0038,Maya Olsen,sofia.vargas38@example.com,US,04/10/2024, Consumer ,true
+C0039,Olivia Xu,rita.costa39@example.com,canada,10/05/2022, Consumer ,FALSE
+C0040,Bruno Costa,missing@,FR,2023/09/27,consumer,TRUE
+C0041,Isabel Olsen,victor.evans41@example.com,Germany,2022-06-15,small business,TRUE
+C0042,Ursula Olsen,ines.dubois42@example.com,france,01-Feb-2024,ENT,true
+C0043,Noah Dubois,felipe.young43@example.com, CAN ,12/05/2023,ENT,1
+C0044,Elena Rossi,maya.rossi44@example.com,United Kingdom,2022-12-22,Smb, No 
+C0045,QUINN OLSEN,noah.xu45@example.com,germany,10-Mar-2022,Enterprise , No 
+C0046,Yara Ito,ravi.xu46@example.com,U.S.,2024/09/01,ENT,N
+C0047,Ines Johnson,muller.dubois47@example.com,United Kingdom,24-Mar-2023,Enterprise,1
+C0048,Quinn Pereira,carla.hansen48@example.com,germany,2024-06-15,Small Business,Y
+C0049,Zoe Novak, CARLA.HANSEN48@EXAMPLE.COM ,Germany,2023-11-12, Consumer , Yes 
+C0050,Isabel Almeida,bruno.costa50@example.com,US,02/21/2024,Enterprise ,false
+C0051,Karla Young,pedro.silva51@example.com, CAN ,02-Feb-2024, Consumer ,FALSE
+C0052,  Ana Muller ,felipe.fischer52@example.com,UK,15-Jul-2022,small business,no
+C0053,Quinn Evans,daniel.quintero53@example.com,CA,2023-01-01,CONSUMER,FALSE
+C0054,Jonas Quintero,ana.rossi54@example.com,france,14-Apr-2023,enterprise,0
+C0055,Jonas Dias,olivia.novak55@example.com,,05/15/2023,small business,TRUE
+C0056,THEO UEDA,ursula.pereira56@example.com, FR ,13-Feb-2022,CONSUMER,0
+C0057,Daniel Ito,victor.walsh57@example.com,Canada,2023/07/03,Consumer,1
+C0058,Hugo Taylor,muller.xu58@example.com,DE,04-Jun-2022,Small Business,0
+C0059,Victor Vargas,pedro.olsen59@example.com, CAN ,2024-01-17,SMB,no
+C0060,Ines Xu,hugo.rossi60@example.com,United Kingdom,2023/11/17,enterprise,true
+C0061,Jonas Dias,elena.sato61@example.com,Germany,2024-07-15,consumer,Y
+C0062,Sofia Sato,zoe.dias62@example.com, Deutschland ,2024/01/18,ENT,no
+C0063,Ravi Garcia,xavier.dias63@example.com,USA,2023-01-04,SMB,0
+C0064,Hugo Brown,, Deutschland ,29-Aug-2024,ENT, No 
+C0065,Elena Quintero,olivia.taylor65@example.com,DE,2023-02-17,consumer,1
+C0066,Quinn Lopez,victor.martins66@example.com,UK,2022-11-24, Consumer ,no
+C0067,JONAS YOUNG,muller.xu67@example.com,FR,28-Jun-2024,CONSUMER,Y
+C0068,Noah Young,grace.ueda68@example.com,DE,07-Jan-2023,Small Business,no
+C0069,  Ines Johnson ,victor.klein69@example.com,United Kingdom,2022-03-18,Enterprise,Y
+C0070,Grace Dubois,wendy.muller70@example.com,US,2023/04/17,Consumer, No 
+C0071,Theo Ito,yara.walsh71@example.com,Germany,03/09/2024,small business,true
+C0072,Sofia Pereira,theo.ito72@example.com,uk,07/10/2022,,Y
+C0073,Muller Hansen,xavier.klein73@example.com,Germany,,enterprise,N
+C0074,Ravi Dubois,pedro.johnson74@example.com,CA,05/11/2022,enterprise,false
+C0075,Felipe Evans, PEDRO.JOHNSON74@EXAMPLE.COM ,CA,,Enterprise ,true
+C0076,Pedro Brown,ines.evans76@example.com, United States ,04/23/2023,Enterprise, No 
+C0077,Isabel Novak,carla.dubois77@example.com,germany,2022-11-28,Smb,
+C0078,RAVI KHAN,quinn.novak78@example.com, United States ,2022-08-16,ENT,N
+C0079,Elena Muller,wendy.lopez79@example.com,CA,07/21/2023,Consumer, No 
+C0080,Carla Walsh,daniel.vargas80@example.com,FR,04-Nov-2023,Enterprise,FALSE
+C0081,Zoe Muller,felipe.quintero81@example.com,FR,2024/08/02,Enterprise,false
+C0082,Grace Muller,ines.dubois82@example.com, FR ,03/15/2023,ENT,FALSE
+C0083,Daniel Pereira,karla.xu83@example.com,FR,06/11/2022,small business,FALSE
+C0084,Olivia Johnson,no_at_sign,Canada,2024/04/16,Enterprise,no
+C0085,Ana Xu,elena.lopez85@example.com,uk,25-Sep-2023,SMB,N
+C0086,  Karla Taylor ,theo.khan86@example.com, FR ,2023/12/05,consumer,TRUE
+C0087,Maya Lopez,ana.vargas87@example.com,france,2022/04/08,ENT,false
+C0088,Jose Costa,zoe.dubois88@example.com,FR,2022/11/10, Consumer ,0
+C0089,WENDY WALSH,maya.dias89@example.com, Deutschland ,2024/02/10,consumer,maybe
+C0090,Liam Hansen,isabel.zimmer90@example.com,U.S.,04/15/2024,SMB,true
+C0091,Ana Dubois,jose.taylor91@example.com,Canada,03/13/2023,Consumer,FALSE
+C0092,Ines Hansen,daniel.dias92@example.com, CAN ,,enterprise,N
+C0093,Ana Dias,olivia.rossi93@example.com,France,2024-04-25,Smb,false
+C0094,Carla Young,ana.ueda94@example.com,United Kingdom,25-Jan-2023,consumer,no
+C0095,Jose Evans,quinn.almeida95@example.com,United Kingdom,20-Jun-2024,Enterprise ,FALSE
+C0096,Wendy Fischer,carla.novak96@example.com,USA,2022/10/17,small business,0
+C0097,Liam Rossi, CARLA.NOVAK96@EXAMPLE.COM ,France,2022-08-29,consumer,yes
+C0098,Victor Muller,maya.ito98@example.com,Germany,11/17/2023,Enterprise ,true
+C0099,Bruno Fischer,ravi.novak99@example.com,United States,2023-10-02,Smb,FALSE
+C0100,ISABEL JOHNSON,jonas.novak100@example.com, CAN ,2022/05/21,CONSUMER,1
+C0101,Ravi Xu,ana.johnson101@example.com,canada,04/16/2024,ENT,true
+C0102,Jonas Khan,pedro.sato102@example.com,Canada,2022-07-20,Small Business,no
+C0103,  Olivia Pereira ,wendy.xu103@example.com,FR,19-Mar-2024,Enterprise,N
+C0104,Noah Evans,quinn.dias104@example.com,,2022/01/08,Enterprise, No 
+C0105,Ines Almeida,liam.khan105@example.com,United Kingdom,2024/03/11,Smb,yes
+C0106,Felipe Garcia,bruno.muller106@example.com,united states,2024-03-01,enterprise,0
+C0107,Isabel Dias,ursula.ito107@example.com,uk,,CONSUMER,1
+C0108,Ana Ueda,xavier.zimmer108@example.com,france,2023-10-30, Consumer ,0
+C0109,Ravi Dias,bruno.dias109@example.com,FR,,SMB,1
+C0110,Isabel Pereira,theo.khan110@example.com,United States,09-Dec-2023,Enterprise, Yes 
+C0111,MULLER UEDA,ana.taylor111@example.com,Germany,10/06/2022,Small Business, No 
+C0112,Wendy Rossi,elena.taylor112@example.com, U.K. ,2024-02-23,SMB,
+C0113,Maya Fischer,sofia.costa113@example.com,US,12-Jul-2023,ENT, Yes 
+C0114,Zoe Young,ursula.muller114@example.com,UK,2023-04-06,Enterprise,no
+C0115,Ana Vargas,zoe.almeida115@example.com, United States ,2023-05-23,Enterprise,0
+C0116,Carla Walsh,hugo.hansen116@example.com,Canada,2023-07-26,Consumer, Yes 
+C0117,Yara Dias,noah.evans117@example.com,France,2022-02-07,enterprise, No 
+C0118,Noah Dias,,canada,05/21/2022,SMB,0
+C0119,Rita Sato,yara.fischer119@example.com, Deutschland ,2022/09/04,Small Business,FALSE
+C0120,  Carla Lopez ,ana.sato120@example.com,canada,2022/04/25,small business,no
+C0121,Ravi Johnson,isabel.taylor121@example.com, United States ,2023-03-18, Consumer ,Y
+C0122,DANIEL OLSEN,muller.brown122@example.com,U.S.,2023-11-03, Consumer ,true
+C0123,Pedro Taylor,ana.almeida123@example.com,UK,10/20/2023,Small Business, No 
+C0124,Jonas Dubois,elena.brown124@example.com,United Kingdom,18-Apr-2023,Enterprise , No 
+C0125,Pedro Ito,yara.silva125@example.com,france,08-May-2024,enterprise,TRUE
+C0126,Ines Sato,ravi.young126@example.com,France,2023/07/22, Consumer ,0
+C0127,Olivia Almeida,ines.hansen127@example.com,France,03/21/2022,Enterprise ,FALSE
+C0128,Rita Quintero,isabel.zimmer128@example.com,germany,2024-02-08,Consumer,false
+C0129,Elena Taylor,hugo.brown129@example.com,canada,2023-07-31,,false
+C0130,Zoe Dias,ursula.young130@example.com,Germany,2023-09-30,SMB, Yes 
+C0131,Victor Evans,ravi.sato131@example.com,canada,2023-07-22,Small Business,no
+C0132,Wendy Martins,daniel.xu132@example.com,germany,2023/07/10,Enterprise ,N
+C0133,ANA DUBOIS, DANIEL.XU132@EXAMPLE.COM ,germany,04/01/2022,Smb,yes
+C0134,Elena Rossi,yara.zimmer134@example.com,DE,2023/07/16,Enterprise ,N
+C0135,Felipe Sato,noah.brown135@example.com,DE,09-Mar-2024,Small Business,true
+C0136,Wendy Young,noah.garcia136@example.com,United States,02-Nov-2022,enterprise,N
+C0137,  Maya Olsen ,daniel.dias137@example.com, Deutschland ,08/29/2023,small business,0
+C0138,Theo Xu,ursula.pereira138@example.com,UK,2022/01/31,Consumer, No 
+C0139,Zoe Almeida,quinn.walsh139@example.com,germany,2022-12-15,enterprise,1
+C0140,Theo Dias,quinn.silva140@example.com,canada,,small business,1
+C0141,Isabel Young,carla.zimmer141@example.com,FR,09/13/2024,small business,maybe
+C0142,Hugo Xu,noah.evans142@example.com,uk,08/04/2022,Consumer,0
+C0143,Noah Garcia,yara.walsh143@example.com,france,05-Oct-2022, Consumer ,FALSE
+C0144,KARLA PEREIRA,bruno.fischer144@example.com,FR,,small business,yes
+C0145,Wendy Silva,bad@@example.com,United Kingdom,23-Sep-2024,CONSUMER, No 
+C0146,Muller Muller,carla.vargas146@example.com, CAN ,05/06/2024,ENT,Y
+C0147,Wendy Silva,pedro.khan147@example.com, CAN ,02/04/2022,enterprise,yes
+C0148,Isabel Martins,wendy.silva148@example.com, Deutschland ,2022/08/23,ENT,true
+C0149,Daniel Lopez,pedro.brown149@example.com,DE,2024-04-04,Enterprise ,0
+C0150,Muller Martins,carla.silva150@example.com,france,28-Feb-2022,Smb,FALSE
+C0151,Daniel Taylor,ana.brown151@example.com,United Kingdom,09-May-2024,consumer,
+C0152,Ines Muller,grace.muller152@example.com, CAN ,2022/10/10,small business,1
+C0153,Isabel Novak,noah.vargas153@example.com,canada,10-Jul-2024,small business,1
+C0154,  Pedro Hansen ,maya.fischer154@example.com,FR,10/22/2022,Enterprise ,TRUE
+C0155,ISABEL HANSEN,liam.costa155@example.com,United Kingdom,03/13/2023,CONSUMER,FALSE
+C0156,Ravi Walsh,xavier.fischer156@example.com,canada,10/27/2023,small business, No 
+C0157,Zoe Young,liam.khan157@example.com,USA,05/07/2022,Small Business,yes
+C0158,Ines Dias,rita.novak158@example.com,france,2023-07-14,consumer,1
+C0159,Jose Brown,quinn.xu159@example.com,Great Britain,23-May-2023,consumer,1
+C0160,Olivia Rossi,,uk,2024-02-27,Small Business,Y
+C0161,Karla Evans,jose.rossi161@example.com, CAN ,27-Sep-2024,Consumer,no
+C0162,Felipe Young,noah.evans162@example.com,canada,31-Apr-2023,Consumer,FALSE
+C0163,Jonas Johnson,hugo.dubois163@example.com,,2023/02/15,small business,no
+C0164,Muller Evans,quinn.johnson164@example.com,Canada,2023-02-13, Consumer ,yes
+C0165,Muller Sato,maya.rossi165@example.com, CAN ,2023/02/24,SMB,Y
+C0166,RITA EVANS,quinn.ueda166@example.com,U.S.,2024-03-28, Consumer , No 
+C0167,Elena Ito,hugo.taylor167@example.com,U.S.,11/19/2022,Consumer, Yes 
+C0168,Rita Evans,noah.dubois168@example.com,Great Britain,2022-06-17,SMB,Y
+C0169,Noah Dias,elena.evans169@example.com, FR ,2022-12-02,enterprise,true
+C0170,Quinn Almeida,noah.pereira170@example.com,France,2022-01-23,Small Business,yes
+C0171,  Victor Brown ,ursula.martins171@example.com,DE,2022-04-17,ENT, No 
+C0172,Felipe Fischer,muller.olsen172@example.com, Deutschland ,2022/04/01,small business,no
+C0173,Yara Brown,daniel.dias173@example.com, U.K. ,2024-02-14,small business,TRUE
+C0174,Maya Rossi,ravi.evans174@example.com,U.S.,12/27/2023,Smb,maybe
+C0175,Pedro Ueda,ines.ito175@example.com,united states,01-Dec-2023,ENT,false
+C0176,Yara Lopez,carla.johnson176@example.com,UK,2023/04/09,enterprise,FALSE
+C0177,YARA JOHNSON,sofia.martins177@example.com,United Kingdom,2023/12/21,enterprise,true
+C0178,Ravi Pereira, sofia.martins177@example.com , United States ,2022-06-11,ENT,1
+C0179,Wendy Muller,maya.taylor179@example.com,uk,2024/06/23,small business,FALSE
+C0180,Xavier Zimmer,ravi.martins180@example.com,United States,19-May-2023,small business,1
+C0181,Quinn Brown,elena.martins181@example.com,germany,2024-07-30,Enterprise , No 
+C0182,Olivia Fischer,zoe.garcia182@example.com,france,06/02/2022,consumer,0
+C0183,Jose Hansen,ines.rossi183@example.com,Germany,2023/05/15,Smb, Yes 
+C0184,Grace Hansen,sofia.johnson184@example.com, CAN ,12/01/2023,enterprise,no
+C0185,Theo Rossi,muller.brown185@example.com, CAN ,2023-05-13,,true
+C0186,Ines Martins,isabel.martins186@example.com,uk,2023/03/24,consumer,FALSE
+C0187,Isabel Brown,olivia.olsen187@example.com,U.S.,2022/06/16,Small Business,true
+C0188,  ANA LOPEZ ,elena.garcia188@example.com,Canada,2023/01/18,consumer, No 
+C0189,Muller Pereira,user@, CAN ,2022/08/28,Enterprise ,yes
+C0190,Jose Dias,karla.quintero190@example.com, United States ,2022/10/30,Enterprise , No 
+C0191,Carla Zimmer,rita.vargas191@example.com,Canada,11/18/2023,CONSUMER, Yes 
+C0192,Daniel Brown,quinn.taylor192@example.com,,2023-09-25,SMB,false
+C0193,Maya Sato,rita.taylor193@example.com,United States,02-Sep-2023,enterprise,
+C0194,Ursula Costa,sofia.johnson194@example.com,DE,2022-12-30,ENT,no
+C0195,Zoe Zimmer,hugo.xu195@example.com,canada,08/21/2024,CONSUMER,TRUE
+C0196,Yara Sato,karla.quintero196@example.com,DE,30-Mar-2022,Small Business,no
+C0197,Hugo Khan,felipe.martins197@example.com,DE,2022/12/10,small business,1
+C0198,Jonas Young,pedro.silva198@example.com,FR,04/29/2022,Small Business,yes
+C0199,RITA XU,pedro.klein199@example.com,france,12/07/2022, Consumer ,maybe
+C0200,Sofia Taylor,ines.pereira200@example.com, Deutschland ,,CONSUMER,yes
+C0201,Laura Mendes,laura.mendes201@example.com,United States,2024-02-11,Consumer,Y
+C0202,Owen Clarke,owen.clarke202@example.com,UK,2024-03-04,SMB,N
+C0203,Priya Nair,priya.nair203@example.com,Canada,2024-04-19,Enterprise,yes
+C0204,Mateo Ruiz,mateo.ruiz204@example.com,FR,2024-05-02,Consumer,no
+C0205,Hannah Koch,hannah.koch205@example.com,germany,2024-05-23,SMB,1
+C0206,Ibrahim Khan,ibrahim.khan206@example.com,USA,2024-06-14,Enterprise,0
+C0207,Chloe Martin,chloe.martin207@example.com,ca,2024-07-01,Consumer,
+C0208,Diego Alvarez,diego.alvarez208@example.com, Deutschland ,2024-07-18,SMB,TRUE
+C0209,Emma Wilson,emma.wilson209@example.com,U.S.,2024-08-05,Enterprise,false
+C0210,Rafael Souza,rafael.souza210@example.com,france,2024-08-22,Consumer,Maybe
+C0211,Nina Patel,nina.patel211@example.com,uk,2024-09-09,SMB,N
+C0212,Lucas Meyer,lucas.meyer212@example.com,Canada,2024-09-27,Enterprise,Y
+C0213,Sara Ahmed,sara.ahmed213@example.com,FR,2024-10-10,Consumer,no
+C0214,Tom Baker,tom.baker214@example.com,United States,2024-10-28,SMB,1
+C0215,Mia Rossi,mia.rossi215@example.com,Great Britain,2024-11-15,Enterprise,yes
